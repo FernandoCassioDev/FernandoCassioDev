@@ -5,8 +5,8 @@
 
 ---
 
-### 👨‍💻
+### 
 
-Hello there! I’m Fernando from São Paulo, Brazil. I have a degree in Systems Analysis and Development, and I also enjoy learning about cybersecurity and pentesting.
+Hello there! I’m Fernando from São Paulo, Brazil. I have a degree in Systems Analysis and Development, and I also enjoy learning about cybersecurity and pentesting. 👨‍💻
 
 ---
