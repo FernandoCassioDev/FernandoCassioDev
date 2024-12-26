@@ -5,6 +5,6 @@
 
 ---
 
-Hello! I’m Fernando from São Paulo, Brazil. I have degrees in Systems Development and Cyber Defense, and I enjoy learning about Cloud Computing and Computational Architecture. 👨‍💻
+Hello! I’m Fernando from São Paulo, Brazil. I have degrees in Systems Development and Cyber Defense, and I enjoy learning about Cloud Computing and DevSecOps. 👨‍💻
 
 ---
